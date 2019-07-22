@@ -1,0 +1,14 @@
+#moviesList { 
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#moviesList img {
+    width:20vw;
+    padding: 10px;
+    cursor: grab;
+}
+
+h1 {
+    text-align: center;
+}
