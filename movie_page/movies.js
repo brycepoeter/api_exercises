@@ -39,21 +39,3 @@ req.addEventListener("load", () => {
 
 req.send()
 
-
-
-
-
-
-
-
-//
-//    for (i=0; i<moviePosters.length; i++) {
-//        moviePosters[i].addEventListener('click', function() {
- //           console.log("Clicker wurksz")
-//    })
-//}
-//console.log(moviePosters)
-//moviePosters.map().addEventListener("click", (e) => {
-//    console.log("Clicker wurkz")})
-
-//}
